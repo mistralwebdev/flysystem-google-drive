@@ -1,5 +1,5 @@
 {
-    "name": "nao-pon/flysystem-google-drive",
+    "name": "bilge/flysystem-google-drive",
     "description": "Flysystem adapter for Google Drive",
     "license": "MIT",
     "authors": [
