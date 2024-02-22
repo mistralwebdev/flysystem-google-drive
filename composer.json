@@ -1,5 +1,5 @@
 {
-    "name": "bilge/flysystem-google-drive",
+    "name": "mistralwebdev/flysystem-google-drive",
     "description": "Flysystem adapter for Google Drive",
     "license": "MIT",
     "authors": [
